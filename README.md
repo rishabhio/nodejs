@@ -1,7 +1,7 @@
 #Node.js Repo 
 
 ##Description: 
-Node.js Repo by rishabh.io is a collection of various useful node.js scripts. 
+Node.js Repo by [rishabh.io](https://rishabh.io/tech/nodejs) is a collection of various useful node.js scripts. 
 
 
 ### Part-4: 
