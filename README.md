@@ -9,3 +9,7 @@ Code snippets for [Nodejs Execution Time](https://rishabh.io/tech/nodejs/nodejs-
 
 ### Part-5: 
 Code snippets for [Nodejs File Input Output](https://rishabh.io/tech/nodejs/nodejs-file-input-output.html)
+
+### Part-6: 
+Code snippets for [Nodejs Manipulating JSON] (https://rishabh.io/tech/nodejs/nodejs-manipulating-json.html)
+
